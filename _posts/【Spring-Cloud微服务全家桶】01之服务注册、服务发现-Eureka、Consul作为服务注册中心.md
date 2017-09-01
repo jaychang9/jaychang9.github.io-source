@@ -319,3 +319,6 @@ spring.cloud.consul.port=8500
 
 ```
 
+
+
+示例代码：<https://git.oschina.net/jaychang/spring-cloud-demo.git>
