@@ -1,7 +1,7 @@
 ---
 title: 【Spring Cloud微服务全家桶】01之服务注册、服务发现(Eureka、Consul作为服务注册中心)
 date: 2017-08-27 16:09:54
-tags: 
+tags: Spring Cloud 
 ---
 
 # 何为微服务？
