@@ -320,7 +320,9 @@ eureka.instance.hostname=eureka-peer3eureka.client.serviceUrl.defaultZone=http:/
 
 
 
-复制一个，改名RegistryHaApplication-peer3 ，其中Program arguments: --spring.profiles.active=peer3![img](file:///C:/Users/Administrator/AppData/Local/Temp/enhtmlclip/Image(10).png)
+复制一个，改名RegistryHaApplication-peer3 ，其中Program arguments: --spring.profiles.active=peer3
+
+{% asset_img 11.png %}
 
 配置本地Hosts域名解析
 
